@@ -7,7 +7,7 @@ nav:
  #   writing: "/writing"
  #   speaking: "/speaking"
  #   projects: "/projects"
-   cv: "https://cv.samitopal.com"
+   about: "https://about.samitopal.com"
  # writing:
  #   all: "/writing"
  #   popular: "/writing/popular"
@@ -37,7 +37,7 @@ contact_urls:
     label: "Email"
     value: "samitopal@gmail.com"
     icon: "envelope-square"
- 
+
 # Jekyll build settings
 paginate: 10
 paginate_path: "/writing/page:num"
