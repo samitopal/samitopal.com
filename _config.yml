@@ -31,7 +31,7 @@ contact_urls:
   cv:
     url: "https://about.samitopal.com"
     label: "CV"
-    icon: "user-tie"
+    icon: "user-circle-o"
   linkedin:
     url: "https://www.linkedin.com/in/samitopal"
     label: "LinkedIn"
