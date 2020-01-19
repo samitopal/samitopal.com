@@ -28,10 +28,10 @@ thumbnail_path: "profile-photos/samitopal.jpg"
 
 # URLs
 contact_urls:
-    cv:
-      url: "https://about.samitopal.com"
-      label: "CV"
-      icon: "user-tie"
+  cv:
+    url: "https://about.samitopal.com"
+    label: "CV"
+    icon: "user-tie"
   linkedin:
     url: "https://www.linkedin.com/in/samitopal"
     label: "LinkedIn"
